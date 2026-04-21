@@ -10,7 +10,7 @@ Sou um entusiasta de tecnologia de 16 anos, focado em desenvolver soluções efi
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python |
+| **Linguagens** | Python e Java|
 | **Banco de Dados** | SQL, Azure SQL Database |
 | **Cloud** | Azure (Análise de Dados e Implantação) |
 | **Outros** | Administração, Informática Básica, Deploy de Aplicações |
